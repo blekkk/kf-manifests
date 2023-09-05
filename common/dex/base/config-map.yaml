@@ -24,6 +24,24 @@ data:
       # FIXME: Use hashFromEnv instead
       username: user
       userID: "15841185641784"
+    - email: alpha@email.com
+      hash: $2y$10$s6v3IQhfeFl1bR5jRxy2WuuAQ/usRW/9fdsGvYewbdDvmhyHf.8uW
+      username: alpha
+    - email: beta@email.com
+      hash: $2y$10$zsqAgYOWKGKUoKk/qJTWEuvIB4xf2Ag6ot.t1jL38pzIpsnlqgzs.
+      username: beta
+    - email: charlie@email.com
+      hash: $2y$10$fYQLD4padhvBf7buHmxVXuXsAXhblFkhLmmjVFlsQUxzU1Szjeh52
+      username: charlie
+    - email: delta@email.com
+      hash: $2y$10$Fv/z26O53CWyCtzfJNE1sOIo0m3.tGVfgdv9/EdTu2VY/EljPMpee
+      username: delta
+    - email: echo@email.com
+      hash: $2y$10$qCGFWNv.XH2OP6hJzu9GmuXRui62Bt7rET7v4yGgUfEnP9KYDCh86
+      username: echo
+    - email: foxtrot@email.com
+      hash: $2y$10$fMM4xpplGaoE3JJ8Hwa2TeLWSdV10vqyMqdtNFf2OyVs10IVtaDta
+      username: foxtrot
     staticClients:
     # https://github.com/dexidp/dex/pull/1664
     - idEnv: OIDC_CLIENT_ID
