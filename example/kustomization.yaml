@@ -26,6 +26,7 @@ sortOptions:
     - PersistentVolumeClaim
     - Deployment
     - StatefulSet
+    - HorizontalPodAutoscaler
     - CronJob
     - PodDisruptionBudget
     orderLast:
