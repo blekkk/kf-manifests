@@ -5,6 +5,7 @@ resources:
 - clusterrole-binding.yaml
 - clusterrole.yaml
 - deployment.yaml
+- horizontal-autoscaler.yaml
 - role-binding.yaml
 - role.yaml
 - service-account.yaml
