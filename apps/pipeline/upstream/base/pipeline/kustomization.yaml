@@ -10,6 +10,7 @@ resources:
   - ml-pipeline-apiserver-sa.yaml
   - ml-pipeline-apiserver-service.yaml
   - ml-pipeline-persistenceagent-deployment.yaml
+  - ml-pipeline-persistenceagent-horizontal-autoscaler.yaml
   - ml-pipeline-persistenceagent-role.yaml
   - ml-pipeline-persistenceagent-rolebinding.yaml
   - ml-pipeline-persistenceagent-sa.yaml
